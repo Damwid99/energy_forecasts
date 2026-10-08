@@ -1,7 +1,7 @@
 [workspace]
 authors = ["Damwid99 <damwid@hotmail.com>"]
 channels = ["conda-forge"]
-name = "notebooks"
+name = "energy-forecasts"
 platforms = ["linux-64"]
 version = "0.1.0"
 
