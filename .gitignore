@@ -18,3 +18,5 @@ Thumbs.db
 *.ipynb_checkpoints/
 
 .vscode
+workflow.md
+to_do.md

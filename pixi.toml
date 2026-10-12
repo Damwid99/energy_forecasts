@@ -20,3 +20,7 @@ psycopg2 = ">=2.9.13,<3"
 sqlalchemy = ">=2.1.4,<3"
 python-dotenv = ">=1.2.4,<2"
 ipykernel = ">=7.4.0,<8"
+seaborn = ">=0.13.2,<0.14"
+
+[activation.env]
+PYTHONPATH = "$PIXI_PROJECT_ROOT"
