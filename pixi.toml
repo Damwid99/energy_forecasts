@@ -21,6 +21,8 @@ sqlalchemy = ">=2.1.4,<3"
 python-dotenv = ">=1.2.4,<2"
 ipykernel = ">=7.4.0,<8"
 seaborn = ">=0.13.2,<0.14"
+holidays = ">=0.106,<0.107"
+lightgbm = ">=4.7.0,<5"
 
 [activation.env]
 PYTHONPATH = "$PIXI_PROJECT_ROOT"
