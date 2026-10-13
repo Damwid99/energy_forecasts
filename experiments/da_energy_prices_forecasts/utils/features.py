@@ -6,6 +6,7 @@ import holidays
 import numpy as np
 import pandas as pd
 
+FEATURES_VERSION = "1"
 RANDOM_STATE = 42
 
 START_DATE = "2026-08-01"
